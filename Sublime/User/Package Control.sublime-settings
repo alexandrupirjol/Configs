@@ -1,0 +1,18 @@
+{
+	"installed_packages":
+	[
+		"AutoPEP8",
+		"Bootstrap 3 Snippets",
+		"Ember.js Snippets",
+		"Handlebars",
+		"HTML-CSS-JS Prettify",
+		"jQuery",
+		"JSHint Gutter",
+		"Minifier",
+		"Mocha Snippets",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-pep8"
+	]
+}
